@@ -1,4 +1,5 @@
 a=20
 b=25
-c=a+b
-print(c)
+c=43
+d=a+b
+print(d)
