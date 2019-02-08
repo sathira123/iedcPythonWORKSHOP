@@ -1,5 +1,5 @@
-for x in range (0,100):
+for x in range (0,23):
     if(x==10):
-        break
+        continue
     else:
         print(x)
