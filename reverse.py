@@ -1,4 +1,4 @@
-i=734
+i=int(input("enter the number"))
 rev=0
 
 while(i>0):
